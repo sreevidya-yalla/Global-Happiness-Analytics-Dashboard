@@ -59,7 +59,7 @@ The dashboard enables users to explore:
 
 ## 🖥️ Dashboard Preview
 
-*Dashboard screenshots will be added here.*
+![Global Happiness Analytics Dashboard](dashboard_overview.png)
 
 ## 📂 Project Files
 
