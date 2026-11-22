@@ -61,12 +61,6 @@ The dashboard enables users to explore:
 
 ![Global Happiness Analytics Dashboard](dashboard_overview.png)
 
-## 📂 Project Files
-
-| File | Description |
-|---|---|
-| `.pbix` | Interactive Power BI dashboard |
-| `README.md` | Project documentation |
 
 ## 🚀 How to Use
 
